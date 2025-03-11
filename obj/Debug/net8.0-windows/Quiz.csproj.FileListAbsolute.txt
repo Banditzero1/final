@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.exe
+C:\Users\MSI\source\repos\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.deps.json
+C:\Users\MSI\source\repos\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.runtimeconfig.json
+C:\Users\MSI\source\repos\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.dll
+C:\Users\MSI\source\repos\Quiz\Quiz\bin\Debug\net8.0-windows\Quiz.pdb
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.from1.resources
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.dll
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\refint\Quiz.dll
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.pdb
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\Quiz.genruntimeconfig.cache
+C:\Users\MSI\source\repos\Quiz\Quiz\obj\Debug\net8.0-windows\ref\Quiz.dll
