@@ -1,4 +1,4 @@
-@ -0,0 +1,194 @@
+สิงหราช แสงหิรัญ 673450202-3 
 Class diagram ของโปรแกรมที่ตนเองออกแบบ (เขียนให้ถูกต้องและครบถ้วน)
 using System; // นำเข้า namespace System เพื่อใช้คลาสพื้นฐาน เช่น EventArgs
 using System.Collections.Generic; // นำเข้า namespace System.Collections.Generic เพื่อใช้ List
